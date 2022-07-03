@@ -1,1 +1,1 @@
-const anyakontol = require("./src/index");
+const main = require("./src/index");
