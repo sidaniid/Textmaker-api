@@ -1,0 +1,1 @@
+exports.textpro = require("../lib/textpro");

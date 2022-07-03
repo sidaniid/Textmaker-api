@@ -1,0 +1,1 @@
+const anyakontol = require("./src/index");

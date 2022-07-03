@@ -1,0 +1,28 @@
+{
+  "name": "textpro-api",
+  "version": "0.0.1",
+  "description": "Textprome Api",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "cookie": "^0.4.1",
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.6.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidaniid/Textpro-Api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sidaniid/Textpro-Api/issues"
+  },
+  "homepage": "https://github.com/sidaniid/Textpro-Api#readme"
+}
